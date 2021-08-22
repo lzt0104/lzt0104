@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzt0104)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzt0104&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm 劉政廷</h1>
 <h3 align="left">Connect with me:</h3>
