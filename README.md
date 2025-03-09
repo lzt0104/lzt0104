@@ -5,5 +5,5 @@ NYUST AI
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzt0104&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzt0104&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lzt0104&theme=aura&utcOffset=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==lzt0104&langs_count=8&theme=radical)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username==lzt0104&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lzt0104&langs_count=8&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=lzt0104&show_icons=true&theme=radical)
