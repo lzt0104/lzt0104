@@ -2,7 +2,7 @@
   
 # 👋 歡迎來到 lzt0104 的程式宇宙 🌌
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=AI+愛好者;全端開發者;問題解決專家;雲科大學生)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=AI+愛好者;全端開發者;問題解決專家;Yuntech)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNyMTRrdm54eGlnczA1Z2JkeTY2cnUxOTc3Y200YmpucGVnZmJ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px">
 
