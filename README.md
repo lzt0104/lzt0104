@@ -1,117 +1,128 @@
+# 👋 Hello, I'm lzt! 🦆 | 歡迎來到我的程式宇宙
+
 <div align="center">
 
-```bash
- _____             _       ___  ____  
-|  __ \           | |     / _ \/ __ \ 
-| |  | | ___   ___| | ___| | | | |  | |
-| |  | |/ _ \ / __| |/ _ \ | | | |  | |
-| |__| | (_) | (__| |  __/ |_| | |__| |
-|_____/ \___/ \___|_|\___|\___/ \____/ 
-                                      
-````
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Problem-Solving+Expert+%7C+Yuntech+Student;Code+with+a+touch+of+madness...;And+a+lot+of+coffee+%E2%98%95)](https://git.io/typing-svg)
 
-#### DuckOS v0.42 -- Kernel Build: lzt0104
+</div>
+<div align="center">
+<table width="100%" border="0">
+  <tr valign="middle">
+    <td width="40%" align="center">
+      <a href="https://lztduck.space/">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px" alt="Coding Duck GIF">
+      </a>
+    </td>
+    <td width="60%" align="center">
+      <i>"我思故我寫碼，時而沉思，時而寫下改變世界的 bug。"</i>
+    </td>
+  </tr>
+</table>
+</div>
 
-\</div\>
+---
 
-```powershell
-# 系統啟動... 載入個人化模組...
-# 偵測到咖啡因濃度：高。所有系統功能已解鎖。
-# 今日運勢：宜寫 Bug，忌寫文檔。
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "50px"></picture> 關於我 About Me
 
-PS C:\Users\lzt>
-```
+你好！我是 `lzt`，一名來自**國立雲林科技大學（Yuntech）**的資訊管理學生。對我而言，程式不僅僅是冰冷的邏輯，它是一門藝術、一種魔法，能將腦中的奇思妙想轉化為解決問題的實用工具。
 
------
+我沉浸於**全端開發**的廣闊世界，並對**人工智慧**的無限可能性深深著迷。目前，我正致力於打造一些「或許會讓世界變得更有趣（或更混亂）」的 AI 專案。我相信最棒的程式碼，是那種能讓人會心一笑，同時又無比強大的程式碼。
 
-```bash
-# 輸入指令來更了解我...
-lzt@DuckOS:~$ ./whoami
+- 🎓 **學術背景**: 就讀於國立雲林科技大學 (NYUST)
+- 🔭 **目前動態**: 正在秘密開發一個可能顛覆你日常的 AI 專案 🤫
+- 🌱 **學習無涯**: 持續探索 `Next.js`、`Docker` 與更深層的 `AI/ML` 領域
+- 💡 **核心理念**: 將複雜問題拆解，用優雅且高效的程式碼重組新生
+- 🎯 **終極目標**: 成為一名能夠創造卓越價值並引領技術革新的開發者
 
-#####################################################################
-#                                                                   #
-#     L Z T / 李知擇                                                #
-#                                                                   #
-#     一個在程式碼與瘋狂點子間尋求平衡的物種。                        #
-#     白天是國立雲林科技大學的學生，晚上是企圖用 AI 統治              #
-#     ...家裡掃地機器人的開發者。                                   #
-#                                                                   #
-#     我相信最好的程式，是那種執行後會讓你懷疑人生，                #
-#     但又忍不住讚嘆「臥槽，還能這樣？」的程式。                      #
-#                                                                   #
-#####################################################################
-```
+---
 
-```bash
-lzt@DuckOS:~$ ./skills --tree
+## 🛠️ 我的技術軍火庫 My Tech Stack
 
-.
-├── 🧠 Languages & Logic
-│   ├── 🐍 Python (用於 AI 鍊丹)
-│   ├── 🔵 C++ (效能壓榨機)
-│   ├── #️⃣ C# / .NET (微軟爸爸的愛)
-│   └── 🐘 PHP (世界上最好的語言)
-│
-├── 🎨 Frontend & Design
-│   ├── 🦴 HTML / CSS / JavaScript (三位一體)
-│   ├── ⚛️ React / Next.js (現代鍊金術)
-│   └── 🎨 Figma (在程式碼毀掉它之前的樣子)
-│
-└── 🛠️ Tools & Environments
-    ├── 🐧 Ubuntu / Raspberry Pi (我的Geek樂園)
-    ├── 🐳 Docker (把我的混亂打包帶走)
-    ├── 🐙 Git / GitHub (時間旅行機器)
-    └── 📮 Postman (API 的冥想室)
-```
+<div align="center">
+  <table width="100%" border="0" cellpadding="10">
+    <tr valign="top">
+      <td width="33%" align="center">
+        <p><strong>前端 Front-End</strong></p>
+        <p>
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,figma&perline=4" alt="Front-End Skills" /></a>
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <p><strong>後端 Back-End</strong></p>
+        <p>
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,nodejs,dotnet,php,postman&perline=3" alt="Back-End Skills" /></a>
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <p><strong>其他工具 & 平台 Others</strong></p>
+        <p>
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,ubuntu,raspberrypi,wordpress,vercel,docker&perline=4" alt="Other Skills" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```bash
-lzt@DuckOS:~$ ls -R /projects/world_domination_schemes
+---
 
-/top_secret:
-AI_Powered_Toaster.exe        # 一個會在你烤焦吐司時精神霸凌你的AI
-Smart_Cat_Feeder_v2.py        # 根據貓主子的心情和鄙視程度自動調整飯量
-Code_Review_Bot.js            # 能用你老闆的語氣自動產生尖酸刻薄的 Code Review
-Useless_Button.html           # 一個按了完全沒用，但會記錄你按了幾次的網頁
-```
+## 📊 我的 GitHub 數據分析 My GitHub Stats
 
-```bash
-lzt@DuckOS:~$ ./fetch --github-stats
+<div align="center">
 
-# 正在從 GitHub API 偷取數據... 成功！
-# 分析中... 產生的報告卡如下：
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzt0104/lzt0104/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzt0104/lzt0104/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzt0104/lzt0104/output/github-contribution-grid-snake.svg">
+</picture>
 
-\<div align="center"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dlzt0104%26show\_icons%3Dtrue%26theme%3Ddracula%26count\_private%3Dtrue%26hide\_border%3Dtrue%26card\_width%3D450" alt="GitHub Stats"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dlzt0104%26layout%3Dcompact%26theme%3Ddracula%26hide\_border%3Dtrue" alt="Top Languages"\>
-\<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lzt0104/lzt0104/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"\>
-\</div\>
+<br>
 
-```bash
-lzt@DuckOS:~$ ./connect -a
+<div align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzt0104&theme=solarized_dark" alt="GitHub Profile Details" />
+  <table border="0" cellpadding="10">
+    <tr valign="top">
+      <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzt0104&theme=solarized_dark" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzt0104&theme=solarized_dark" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-# 建立通訊頻道...
-# 想聊聊那些瘋狂的點子或是一起喝杯咖啡嗎？在下面這些座標可以找到我：
+</div>
 
-[
-  {
-    "platform": "Instagram",
-    "user": "@lie.1131",
-    "url": "[https://instagram.com/lie.1131](https://instagram.com/lie.1131)"
-  },
-  {
-    "platform": "Personal Website",
-    "alias": "lztduck.space",
-    "url": "[https://lztduck.space](https://lztduck.space)"
-  }
-]
-```
+---
 
-```powershell
-# 任務完成。系統待機中，等待下一個絕妙（或愚蠢）的指令...
+## 🤝 保持聯繫 Let's Connect
 
-PS C:\Users\lzt> shutdown -p
+我樂於交流想法、分享知識，或是一起喝杯咖啡聊聊最新的科技趨勢。你可以在以下地方找到我：
 
-# 系統即將關機。感謝你的來訪。
-# 檔案檢視次數統計：
-![個人檔案瀏覽次數](https://komarev.com/ghpvc/?username=lzt0104&color=04d2b2&style=flat-square&label=Signal_Strength)
+<p align="center">
+  <a href="https://lztduck.space/">
+    <img src="https://img.shields.io/badge/個人網站-lztduck.space-00BFFF?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="個人網站">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/lie.1131">
+    <img src="https://img.shields.io/badge/Instagram-@lie.1131-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=lzt0104&color=00BFFF&style=flat-square&label=VIEWS)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+<br>
+
+*Made with ❤️ and a lot of 🦆 by [lzt0104](https://github.com/lzt0104)*
+
+</div>
