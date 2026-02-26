@@ -67,25 +67,33 @@ const lzt = {
 
 ## 📊 GitHub Analytics
 
-<!-- ✅ github-readme-stats — official deployment, most stable -->
+<!-- 
+  ⚠️  REPLACE "github-readme-stats-lcderzc6r-lzt0104s-projects" with your own deployment URL.
+  Setup guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  Takes ~2 minutes on Vercel (free). Prevents rate limiting forever.
+-->
+
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lzt0104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&ring_color=0ea5e9"
+    src="https://github-readme-stats-lcderzc6r-lzt0104s-projects.vercel.app/api?username=lzt0104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&ring_color=0ea5e9"
     height="175"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzt0104&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&langs_count=8"
+    src="https://github-readme-stats-lcderzc6r-lzt0104s-projects.vercel.app/api/top-langs/?username=lzt0104&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&langs_count=8"
     height="175"
+    alt="Top Languages"
   />
 </div>
 
 <br>
 
-<!-- ✅ streak-stats — hosted on demolab.com, very reliable -->
+<!-- ✅ streak-stats — hosted on demolab.com, independently maintained, very stable -->
 <div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=lzt0104&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=888888&sideNums=ffffff&currStreakNum=ffffff"
     width="65%"
+    alt="GitHub Streak"
   />
 </div>
 
@@ -93,23 +101,23 @@ const lzt = {
 
 ## 🏆 GitHub Trophies
 
-<!-- ✅ github-profile-trophy — stable Vercel deployment -->
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=lzt0104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1"
     width="100%"
+    alt="GitHub Trophies"
   />
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
-<!-- ✅ githubcontributions.io — not Vercel, independently hosted -->
+<!-- ✅ ghchart.rshah.org — not on Vercel, self-hosted Ruby app, very stable -->
 <div align="center">
   <img
     src="https://ghchart.rshah.org/0ea5e9/lzt0104"
-    alt="lzt0104's GitHub Contribution Chart"
+    alt="GitHub Contribution Chart"
     width="100%"
   />
 </div>
@@ -118,7 +126,7 @@ const lzt = {
 
 ## 🐍 Contribution Snake
 
-<!-- ⚠️ Requires GitHub Actions setup — see note below -->
+<!-- ✅ Once GitHub Actions is set up, this SVG lives in YOUR repo — never breaks -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/lzt0104/lzt0104/output/github-contribution-grid-snake-dark.svg">
