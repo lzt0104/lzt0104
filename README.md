@@ -99,18 +99,6 @@ const lzt = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-master-lzt0104s-projects.vercel.app/api?username=lzt0104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <!-- ✅ ghchart.rshah.org — not on Vercel, self-hosted Ruby app, very stable -->
