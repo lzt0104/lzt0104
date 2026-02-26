@@ -103,7 +103,7 @@ const lzt = {
 
 <div align="center">
   <img
-    src="https://github-readme-stats-git-master-lzt0104s-projects.vercel.app/?username=lzt0104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1"
+    src="https://github-readme-stats-git-master-lzt0104s-projects.vercel.app/api?username=lzt0104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1"
     width="100%"
     alt="GitHub Trophies"
   />
