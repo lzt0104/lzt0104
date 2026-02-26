@@ -75,12 +75,12 @@ const lzt = {
 
 <div align="center">
   <img
-    src="https://github-readme-stats-jy1xgo2f8-lzt0104s-projects.vercel.app/api?username=lzt0104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&ring_color=0ea5e9"
+    src="https://github-readme-stats-git-master-lzt0104s-projects.vercel.app/api?username=lzt0104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&ring_color=0ea5e9"
     height="175"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats-jy1xgo2f8-lzt0104s-projects.vercel.app/api/top-langs/?username=lzt0104&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&langs_count=8"
+    src="https://github-readme-stats-git-master-lzt0104s-projects.vercel.app/api/top-langs/?username=lzt0104&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&langs_count=8"
     height="175"
     alt="Top Languages"
   />
@@ -103,7 +103,7 @@ const lzt = {
 
 <div align="center">
   <img
-    src="github-readme-stats-jy1xgo2f8-lzt0104s-projects.vercel.app/?username=lzt0104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1"
+    src="https://github-readme-stats-git-master-lzt0104s-projects.vercel.app/?username=lzt0104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1"
     width="100%"
     alt="GitHub Trophies"
   />
