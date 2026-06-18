@@ -67,35 +67,29 @@ const lzt = {
 
 ## 📊 GitHub Analytics
 
-<!-- 
-  ⚠️  REPLACE "github-readme-stats-lcderzc6r-lzt0104s-projects" with your own deployment URL.
-  Setup guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  Takes ~2 minutes on Vercel (free). Prevents rate limiting forever.
--->
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=lzt0104&theme=darkhub&no-frame=true&column=6&margin-w=8" />
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-master-lzt0104s-projects.vercel.app/api?username=lzt0104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&ring_color=0ea5e9"
-    height="175"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-git-master-lzt0104s-projects.vercel.app/api/top-langs/?username=lzt0104&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&langs_count=8"
-    height="175"
-    alt="Top Languages"
-  />
+<br/><br/>
+
+<!-- Profile Stats Card + Top Skills 並排 -->
+<img src="https://github-readme-stats.vercel.app/api?username=lzt0104&show_icons=true&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&hide_border=false&count_private=true&include_all_commits=true" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzt0104&layout=compact&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&langs_count=8" height="170" />
+
+<br/><br/>
+
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=lzt0104&theme=dark&background=0d1117&border=21262d&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lzt0104&bg_color=0d1117&color=00d4ff&line=7b2fff&point=00d4ff&area=true&area_color=0d2137&hide_border=true" width="95%" />
+
 </div>
 
-<br>
-
-<!-- ✅ streak-stats — hosted on demolab.com, independently maintained, very stable -->
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=lzt0104&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=888888&sideNums=ffffff&currStreakNum=ffffff"
-    width="65%"
-    alt="GitHub Streak"
-  />
-</div>
+<br/>
 
 ---
 
@@ -116,11 +110,12 @@ const lzt = {
 
 <!-- ✅ Once GitHub Actions is set up, this SVG lives in YOUR repo — never breaks -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/lzt0104/lzt0104/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzt0104/lzt0104/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/lzt0104/lzt0104/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzt0104/lzt0104/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/lzt0104/lzt0104/output/snake.svg" alt="contribution snake animation" />
+</picture>
+
 </div>
 
 ---
