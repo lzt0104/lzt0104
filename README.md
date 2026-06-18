@@ -67,29 +67,18 @@ const lzt = {
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=lzt0104&theme=darkhub&no-frame=true&column=6&margin-w=8" />
 
-<br/><br/>
 
-<!-- Profile Stats Card + Top Skills 並排 -->
-<img src="https://github-readme-stats.vercel.app/api?username=lzt0104&show_icons=true&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&hide_border=false&count_private=true&include_all_commits=true" height="170" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzt0104&layout=compact&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&langs_count=8" height="170" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lzt0104&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lzt0104&theme=tokyonight&hide_border=true" width="51%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzt0104&layout=compact&theme=tokyonight&hide_border=true" /> </p> 
 
-<br/><br/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=lzt0104&theme=dark&background=0d1117&border=21262d&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-<br/><br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lzt0104&bg_color=0d1117&color=00d4ff&line=7b2fff&point=00d4ff&area=true&area_color=0d2137&hide_border=true" width="95%" />
 
 </div>
 
-<br/>
+
 
 ---
 
@@ -102,20 +91,6 @@ const lzt = {
     alt="GitHub Contribution Chart"
     width="100%"
   />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<!-- ✅ Once GitHub Actions is set up, this SVG lives in YOUR repo — never breaks -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzt0104/lzt0104/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/lzt0104/lzt0104/output/snake.svg" alt="contribution snake animation" />
-</picture>
-
 </div>
 
 ---
